@@ -1,0 +1,30 @@
+h:\users\denis\documents\visual studio 2015\Projects\provodnik2\provodnik2\bin\Debug\provodnik2.exe.config
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\bin\Debug\provodnik2.exe
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\bin\Debug\provodnik2.pdb
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\obj\Debug\provodnik2.csprojResolveAssemblyReference.cache
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\obj\Debug\provodnik2.Form1.resources
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\obj\Debug\provodnik2.Properties.Resources.resources
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\obj\Debug\provodnik2.csproj.GenerateResource.Cache
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\obj\Debug\provodnik2.exe
+H:\Users\denis\Documents\Visual Studio 2015\Projects\provodnik2\provodnik2\obj\Debug\provodnik2.pdb
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.exe.config
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.exe
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.pdb
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.exe
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.pdb
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.csprojResolveAssemblyReference.cache
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.Form1.resources
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.Properties.Resources.resources
+C:\Users\student.RTF.001\Desktop\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.csproj.GenerateResource.Cache
+D:\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.exe.config
+D:\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.exe
+D:\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.pdb
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.exe.config
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.exe
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.pdb
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.exe
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\bin\Debug\provodnik2.pdb
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.csprojResolveAssemblyReference.cache
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.Explorer.resources
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.Properties.Resources.resources
+H:\Users\denis\Desktop\проекты\provodnik-master\provodnik2\provodnik2\obj\Debug\provodnik2.csproj.GenerateResource.Cache
